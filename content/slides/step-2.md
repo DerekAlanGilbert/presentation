@@ -3,17 +3,11 @@ order: 4
 
 ---
 
-## Automate and Iterate
+## Develop a portfolio
 
+- Your last job is what matters
+    - When you don't have technical experience a strong portfolio grabs attention
+    - Show me what you can build not what you have learned
 
-- First movers advantage.
-    - Reacting to a job listing is time sensitive
-
-- setup notifications for glassdoor, linkedIn, zipRecruiter, indeed, remote.io, etc.
-    - filters
-    - notifications
-    - emails
-
-- use automated rejection emails to tweak your resume
-    - keywords
-    - stats/numbers
+- Breaking out of tutorial hell
+  - small steps

@@ -14,6 +14,14 @@ body {
   @apply list-decimal pl-6
 }
 
+.nuxt-content a {
+  @apply text-green-800
+}
+
+.nuxt-content a:hover {
+  @apply text-green-600 underline
+}
+
  kbd {
  @apply border border-gray-200 text-gray-900 shadow-sm rounded p-1;
  }

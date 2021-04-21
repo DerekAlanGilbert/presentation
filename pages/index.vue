@@ -1,9 +1,9 @@
 <template>
-  <main class="max-w-6xl w-full justify-self-center">
+  <main class="max-w-4xl w-full justify-self-center">
     <template v-for="(slide, index) in slides">
       <Slide v-if="index === selectedSlideIndex" :key="index">
         <div
-          class="absolute right-0 top-0 bg-white p-2 w-10 h-10 -mt-4 mr-2 sm:-mr-4 sm:mt-2 border-2 text-center border-green-600 rounded text-green-600"
+          class="absolute right-0 top-0 shadow bg-white p-2 w-10 font-bold h-10 -mt-4 mr-2 sm:-mr-4 sm:mt-2 border-2 text-center border-green-600 rounded text-green-600"
         >
           {{ adjustedSlideIndex }}
         </div>

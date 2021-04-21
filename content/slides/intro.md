@@ -5,7 +5,9 @@ order: 2
 
 ## Intro
 
-5 Steps to get into Tech
+__5 Steps to get into Tech:__
+
+ Exploring practical patterns to increase your odds of landing a job in tech
 
 1. Automate and Iterate
 
