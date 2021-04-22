@@ -11,3 +11,5 @@ order: 4
 
 - Breaking out of tutorial hell
   - small steps
+  - ask question that lead to action
+  - give yourself permission to fail
